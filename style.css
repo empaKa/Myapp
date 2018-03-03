@@ -6,12 +6,6 @@ body{
 	font-family: Helvetica;
 }
 
-/* Flexbox */
-display : flex; 
-align-items : center;
-justify-content: center;
-
-
 h1 {
 	font-family: Verdana, sans-serif;
   	color: rgb(72,209,204);
